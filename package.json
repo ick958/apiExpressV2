@@ -1,7 +1,7 @@
 {
   "name": "apicreateexpressserver",
   "version": "1.0.0",
-  "description": "uma api para dinheiro ficticio",
+  "description": "uma api para criar um servidor express simples",
   "main": "src/api.js",
   "dependencies": {
     "ejs": "^3.1.5",
