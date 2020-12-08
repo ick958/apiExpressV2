@@ -1,7 +1,10 @@
 # api
 api para criar servidor express simples
 # como usar
-crie uma pasta chamada public no seu projeto é crie um index.html
+ sintaxe
+ 	`const { createExpressServer } = require("apicreateexpressserver")
+createExpressServer(3000, 'public', 'index.html')
+`
 # ajudem dando pull requests
 
 thanks
